@@ -27,6 +27,7 @@ Porting mined items to you while sneaking!
 <img width="901" height="306" alt="smithing_custom_enchantment_eternal" src="https://github.com/user-attachments/assets/f4b95a03-cbaf-4643-9db8-dc2d79b8c019" />
 
 (Craft only!)
+
 <img width="1125" height="455" alt="smithing_custom_upgrade_elytra" src="https://github.com/user-attachments/assets/3e9e998f-41b8-4631-862c-3a1710b75989" />
 
 

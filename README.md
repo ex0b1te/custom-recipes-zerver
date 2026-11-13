@@ -28,7 +28,8 @@ Porting mined items to you while sneaking!
 
 (Craft only!)
 
-<img width="1125" height="455" alt="smithing_custom_upgrade_elytra" src="https://github.com/user-attachments/assets/3e9e998f-41b8-4631-862c-3a1710b75989" />
+<img width="1116" height="544" alt="smithing_custom_upgrade_elytra" src="https://github.com/user-attachments/assets/e6940964-d573-41be-ab4b-e72f3feac71c" />
+
 
 
 Infinite Pearl (Craft only!)

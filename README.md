@@ -27,12 +27,13 @@ Porting mined items to you while sneaking!
 <img width="901" height="306" alt="smithing_custom_enchantment_eternal" src="https://github.com/user-attachments/assets/f4b95a03-cbaf-4643-9db8-dc2d79b8c019" />
 
 (Craft only!)
-
 <img width="1116" height="544" alt="smithing_custom_upgrade_elytra" src="https://github.com/user-attachments/assets/e6940964-d573-41be-ab4b-e72f3feac71c" />
 
 
 
 Infinite Pearl (Craft only!)
+
+
 <img width="794" height="282" alt="ethernal pearl" src="https://github.com/user-attachments/assets/228c8a1c-46a0-46a3-b9ac-1904cc3c8197" />
 
 

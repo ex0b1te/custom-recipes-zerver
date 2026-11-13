@@ -8,7 +8,7 @@ Alle enchantments without (Craft only! tag) can be found in enchanting table, on
 
 The most is self explaining
 
-(Craft only!) Get the wither effect on a sword! 
+(Craft only!) Get the wither effect on a sword!  Count to Wither 2!
 <img width="873" height="269" alt="smithing_custom_enchantment_withering" src="https://github.com/user-attachments/assets/8623564f-09df-48bd-805c-7e0cb3d7db5e" />
 
 (Craft only!) Binds your item to your Soul!

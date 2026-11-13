@@ -26,7 +26,7 @@ Porting mined items to you while sneaking!
 (Craft only!) Dropped Item can`t despawn and not be destroyed from Lava, Fire, Explosions, Cactus. Only from the Void! And the items is glowing when dropped! 
 <img width="901" height="306" alt="smithing_custom_enchantment_eternal" src="https://github.com/user-attachments/assets/f4b95a03-cbaf-4643-9db8-dc2d79b8c019" />
 
-(Craft only!)
+(Craft only!) Chestplate gets lost!
 <img width="1116" height="544" alt="smithing_custom_upgrade_elytra" src="https://github.com/user-attachments/assets/e6940964-d573-41be-ab4b-e72f3feac71c" />
 
 

@@ -15,7 +15,9 @@ The most is self explaining
 <img width="1047" height="318" alt="smithing_custom_enchantment_soulbound" src="https://github.com/user-attachments/assets/7ce11a08-858e-4fd2-acc6-89ffe02d3578" />
 
 Porting mined items to you while sneaking! 
-<img width="1137" height="280" alt="smithing_custom_enchantment_magnetic" src="https://github.com/user-attachments/assets/2fb7c15f-8c17-4807-9c97-a9b808f5943e" />
+
+<img width="1023" height="351" alt="smithing_custom_enchantment_magnetic" src="https://github.com/user-attachments/assets/abbddd4e-4a5e-473e-a182-765c1846ca46" />
+
 
 (Craft only!) Better Unbreaking!
 <img width="931" height="267" alt="smithing_custom_enchantment_longevity" src="https://github.com/user-attachments/assets/930fec3b-136d-4fd9-8adc-e3a3810fdedc" />

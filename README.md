@@ -39,3 +39,15 @@ Infinite Pearl (Craft only!)
 <img width="794" height="282" alt="ethernal pearl" src="https://github.com/user-attachments/assets/228c8a1c-46a0-46a3-b9ac-1904cc3c8197" />
 
 
+Goldi Upgrade Pickaxe (Craft only!) (No Silktouch/Fortune possible!)
+
+<img width="974" height="488" alt="smithing_custom_upgrade_goldi" src="https://github.com/user-attachments/assets/7b9c0670-6278-4349-8c00-f62207c2da49" />
+
+Reinforced Mace Upgrade (Craft only!) Warden drops Sonic Boom enchantment ability for this Mace!
+
+<img width="928" height="441" alt="smithing_custom_upgrade_mace" src="https://github.com/user-attachments/assets/6e56cebe-dbcd-40bb-b0c5-83bb1f171af0" />
+
+
+Reinforce Netherite Sword Upgrade (Craft only!) Wither drops Wither Skull enchantment ability only for this Sword!
+
+<img width="1026" height="442" alt="smithing_custom_upgrade_sword" src="https://github.com/user-attachments/assets/239e0bdd-4961-408f-afe4-1a4023c5b2ec" />

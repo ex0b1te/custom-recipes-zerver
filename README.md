@@ -2,7 +2,12 @@
 Customized recipes from datapacks on our vanilla server
 
 These enchantments got added:
-Veinminer, Life Steal, Poisoning, Freezing, Magnetic, Attack Speed, Reach
+Magnetic, Reach (Every Tool/Weapon)
+Veinminer (Pickaxe)
+Life Steal (All Weapons) 
+Poisoning, Freezing (Sword, only one possible: Fire Aspect, Poisoning or Freezing!)
+Attack Speed (Sword, Mace)
+Spectral (Bow)
 
 Alle enchantments without (Craft only! tag) can be found in enchanting table, on random loot, on traded equipment, villager trades or in treasure chests. The Health enchantment is excluded from trading/traded equipment but its craftable and can be found in random loot and treasure loot!
 

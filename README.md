@@ -15,13 +15,13 @@ Attack Speed (Sword, Mace)
 
 Spectral (Bow)
 
-Craft only: Soulbound, Longivity, Eternal, Health
+Craft only: Soulbound, Longivity, Eternal, Health(5)
 
 Alle enchantments without th "Craft only!" tag) can be found in enchanting table, on random loot, on traded equipment, villager trades or in treasure chests. The Health enchantment is excluded from trading/traded equipment but its craftable and can be found in random loot and treasure loot!
 
 The most is self explaining
 
-(Craft only!) Get the wither effect on a sword!  Count to Wither 2!
+REMOVED! (Craft only!) Get the wither effect on a sword!  Count to Wither 2!
 <img width="873" height="269" alt="smithing_custom_enchantment_withering" src="https://github.com/user-attachments/assets/8623564f-09df-48bd-805c-7e0cb3d7db5e" />
 
 (Craft only!) Binds your item to your Soul!

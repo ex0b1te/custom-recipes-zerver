@@ -19,7 +19,7 @@ Porting mined items to you while sneaking!
 <img width="1023" height="351" alt="smithing_custom_enchantment_magnetic" src="https://github.com/user-attachments/assets/abbddd4e-4a5e-473e-a182-765c1846ca46" />
 
 
-(Craft only!) Better Unbreaking!
+(Craft only!) More Durability!
 <img width="931" height="267" alt="smithing_custom_enchantment_longevity" src="https://github.com/user-attachments/assets/930fec3b-136d-4fd9-8adc-e3a3810fdedc" />
 
 (No Trading) Enchantment for your Armor, more Healthpoints! Counts to Health 5! 

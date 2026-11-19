@@ -7,6 +7,8 @@ Magnetic, Reach (Every Tool/Weapon)
 
 Veinminer (Pickaxe)
 
+Timber (Axe)
+
 Life Steal (All Weapons) Level 3
 
 Poisoning (2), Freezing (2) (Sword, only one possible: Fire Aspect, Poisoning or Freezing!)
